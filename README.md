@@ -1,8 +1,16 @@
 - 👋 Hi, I’m @jadABZ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in:
+        DevOps
+        Cybersecurity
+        Network Administration
+        Virtualisation
+        Cloud
+        Telecommunications
+- 🌱 I’m currently learning:
+        PenTesting
+- 💞️ I’m looking to collaborate on:
+        Infrastructure deployment and administration
+- 📫 Based in Toulouse, France
 
 <!---
 jadABZ/jadABZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
