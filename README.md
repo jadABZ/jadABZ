@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jadABZ
 - 👀 I’m interested in:
-        DevOps
-        Cybersecurity
-        Network Administration
-        Virtualisation
-        Cloud
+        DevOps,
+        Cybersecurity,
+        Network Administration,
+        Virtualisation,
+        Cloud,
         Telecommunications
 - 🌱 I’m currently learning:
         PenTesting
