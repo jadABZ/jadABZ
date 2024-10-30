@@ -10,7 +10,7 @@
         PenTesting
 - 💞️ I’m looking to collaborate on:
         Infrastructure deployment and administration
-- 📫 Based in Toulouse, France
+- 📫 Based in Toulouse 🇫🇷 / Valencia 🇪🇸
 
 <!---
 jadABZ/jadABZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
