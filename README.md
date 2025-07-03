@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @jadABZ
 - 👀 I’m interested in:
-        Cybersecurity
 - 🌱 I’m currently learning:
-        PenTesting
 - 💞️ I’m looking to collaborate on:
-        Infrastructure deployment and administration
-- 📫 Based in Toulouse 🇫🇷
+- 📫 Based in:
 
 <!---
 jadABZ/jadABZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
